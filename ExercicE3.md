@@ -1,10 +1,8 @@
 # EXERCICE 3
-## 1. 
-cat /etc/passwd
+## 1.  cat /etc/passwd
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/6f68d743-6efe-4755-a07e-c4ac33eb60e5" />
 
-## 2. 
-chmod 744 myfile
+## 2.  chmod 744 myfile
  ![Capture d'écran 2025-01-28 114113](https://github.com/user-attachments/assets/ed44c83d-0619-4ec8-9a63-ef9232a5692c)
 
 ## 3.
